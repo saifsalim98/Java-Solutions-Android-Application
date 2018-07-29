@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appbar_layout_height">250dp</dimen>
+    <dimen name="backdrop_title">30sp</dimen>
+    <dimen name="backdrop_subtitle">18sp</dimen>
+    <dimen name="card_margin">1dp</dimen>
+    <dimen name="subject_title_padding">10dp</dimen>
+    <dimen name="chapter_count_padding_bottom">5dp</dimen>
+    <dimen name="collapsing_start">48dp</dimen>
+    <dimen name="collapsing_end">64dp</dimen>
+    <dimen name="toolbar_elevation">2dp</dimen>
+    <dimen name="toolbar_textsize">21sp</dimen>
+    <dimen name="ad_layout_elevation">4dp</dimen>
+    <dimen name="ad_layout_height">55dp</dimen>
+    <dimen name="ad_margin">4dp</dimen>
+    <dimen name="listimage">30dp</dimen>
+    <dimen name="listimage_margin">5dp</dimen>
+    <dimen name="listtext_size">19sp</dimen>
+    <dimen name="listtext_paddingtop">2dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_image_height_normal">150dp</dimen>
+    <dimen name="cardimage_padding_horizontal">10dp</dimen>
+    <dimen name="subject_name_textsize_normal">18sp</dimen>
+    <dimen name="number_chapter_textsize_normal">14sp</dimen>
+    <dimen name="subject_name_textsize_small">16sp</dimen>
+    <dimen name="number_chapter_textsize_small">12sp</dimen>
+    <dimen name="subject_name_textsize_large">20sp</dimen>
+    <dimen name="number_chapter_textsize_large">16sp</dimen>
+    <dimen name="subject_name_textsize_xlarge">22sp</dimen>
+    <dimen name="number_chapter_textsize_xlarge">18sp</dimen>
+    <dimen name="card_image_height_large">180dp</dimen>
+    <dimen name="card_image_height_small">100dp</dimen>
+    <dimen name="card_image_height_xlarge">200dp</dimen>
+</resources>
